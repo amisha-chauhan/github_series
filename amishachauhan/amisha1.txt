@@ -1,3 +1,5 @@
+this is task 3
+
 Task 1
 my name is Amisha. i am first year student at amity university noida.
 
@@ -63,18 +65,7 @@ ans:FORK: fork means creating someone else's project as your personal copy. it a
 when you want to contribute to someone else's project or you want to start our own project using other's project then this process is known as forking.
 CLONE: clone is used to create local copy of the remote repository.
 
-b) what are branches in github?
-ans: git branches are basically files or projects inside a repository which are initialised by some other contributers or the project head himself to make some changes or to add some new features to the project without making any change to the original project.
 
-c) what is PR?
-ans:Pull Requets or PR is a feature which lets you make other contributers of the projects about the useful changes made by you and you can request them to merge it to the project through PR.
-
-d)can we delete the master branch?
-ans: yes we can delete the master branch but first we have t5o create new branches.
-
-e) how can you delete a brach?
-ans:to delete local branch: $ git branch -d branch name
-    to delete remote branch: $ git push remote name --delete branch name
  
 
 Regards 
